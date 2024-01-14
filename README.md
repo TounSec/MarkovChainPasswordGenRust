@@ -1,5 +1,5 @@
 # MarkovChainPasswordGenRust
-MarkovChainPasswordGenRust is a password generator with wordlist `-w` `--wordlist` in Rust, which uses Markov chain theory to create random passwords based on **Markov Chain** method. It offers a command line interface to specify password length `-l` `--length`. The generated password is then displayed in green for better visibility.
+MarkovChainPasswordGenRust is a password generator with wordlist `-w` `--wordlist` in Rust, which uses **Markov Chain** theory to create random passwords. It offers a command line interface to specify password length `-l` `--length`. The generated password is then displayed in green for better visibility.
 
 # Install
 ```
